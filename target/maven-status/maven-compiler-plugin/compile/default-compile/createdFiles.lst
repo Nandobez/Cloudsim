@@ -1,0 +1,14 @@
+com/example/filesystem/Journal.class
+com/example/filesystem/FileSystemSimulator.class
+com/example/filesystem/FileSystemSimulator$ListingEntry.class
+com/example/filesystem/VirtualFile.class
+com/example/filesystem/Journal$1.class
+com/example/filesystem/FileSystemSimulator$1.class
+com/example/filesystem/FilesystemShell.class
+com/example/filesystem/FileSystemSimulator$DiskInfo.class
+com/example/filesystem/JournalEntry.class
+com/example/filesystem/VirtualDirectory.class
+com/example/filesystem/Main.class
+com/example/filesystem/OperationType.class
+com/example/filesystem/FileSystemNode.class
+com/example/filesystem/FatDisk.class

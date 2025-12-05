@@ -1,0 +1,10 @@
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/Main.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/OperationType.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/VirtualFile.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/FatDisk.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/FileSystemSimulator.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/Journal.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/JournalEntry.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/FileSystemNode.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/VirtualDirectory.java
+/media/fernando-bezerra/Files1/CODES/Java/OS/Gestor/src/main/java/com/example/filesystem/FilesystemShell.java
