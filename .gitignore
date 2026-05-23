@@ -1,0 +1,11 @@
+target/
+*.class
+.settings/
+.project
+.classpath
+filesystem_data.dat
+journal.log
+exec.txt
+.DS_Store
+.idea/
+.vscode/

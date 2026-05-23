@@ -15,6 +15,12 @@
     </properties>
 
     <dependencies>
+        <!-- JLine3 para histórico de comandos e suporte a setas do teclado -->
+        <dependency>
+            <groupId>org.jline</groupId>
+            <artifactId>jline</artifactId>
+            <version>3.25.1</version>
+        </dependency>
     </dependencies>
 
     <build>
